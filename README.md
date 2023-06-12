@@ -1,0 +1,2 @@
+# comon
+airdrop for life
